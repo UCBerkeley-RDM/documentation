@@ -1,0 +1,55 @@
+Audio recording in the field with a USB recorder
+
+FEATURES
+Confidentiality protocols are used to protect subjects’ privacy.
+Interview files are transferred via laptop from USB recorder to Box (box.berkeley.edu)
+Interviews are deleted from the recorder after the quality of the Box copy is assured.
+Files are not stored on laptop. Temporary copies are flushed from memory after upload.
+The campus VPN (“Virtual Private Network”) is used for added security.
+
+INTERVIEWER PREPARATION
+INTERVIEW PROTOCOL: Be clear about the project’s rules for performing interviews!
+DO A DRY RUN: Test the process prior to your first interview. Can you successfully see a .MP3 file on the recording device after plugging it into your laptop? Can you upload it to Box? Can you add a comment to the file on Box?
+DEVICE SECURITY: The confidentiality of the interview is most at risk while the recording exists on the USB recorder or in your laptop memory. Protect your devices!
+Always be aware of the location of your recorder – it can easily be lost or stolen.
+Laptops should meet campus’s requirements for secure devices (see Minimum Security Standards for Networked Devices, or MSSND). For example:
+Use a strong password to log on to your computer. 
+Keep a copy of the password in a secure place to avoid being locked out. 
+Set your computer to auto-lock after 15 minutes of inactivity. 
+Please see our guidance on steps to take to secure a laptop (forthcoming). 
+Install and configure Cisco AnyConnect VPN software on your laptop. The software is free to all campus faculty, students and staff. You can use it to browse the internet securely and to access the campus network from off-campus.
+
+We are happy to provide additional training on how to secure your laptop and how to install and configure Cisco AnyConnect software.
+
+RECORD THE INTERVIEW
+Follow the project standards for interview style and behavior. 
+DO NOT use the subject’s full name on the recording. 
+Do a short test recording before each interview. Check that the recorder and the mic are working properly. Do you have plenty of battery power (or spare batteries)?
+Be sure to position the mic close to the subject.
+Listen for extraneous noise that might interfere with the clarity of the recording. If there is noise, try to move to a quieter location.
+Monitor the recording with headphones so you know that the sound quality is good.
+Periodically check the recorder display to be sure that the device is in record mode and record levels are acceptable. 
+
+UPLOAD TO BOX STORAGE 
+Deposit the recording to Box AS SOON AS POSSIBLE after completion of the interview.
+Plan to have access to a good internet connection after each interview (or, if you have scheduled two or more interviews in a row, as soon as you get a break).
+Open Cisco AnyConnect software on your laptop and log in to the campus VPN using your CalNet credentials. (This step is not necessary if you are connected to the campus network via Ethernet cable or wirelessly via AirBears 2).
+Once you’ve logged in to the VPN, open your browser and navigate to the project’s Interview Recordings folder on Box (https://box.berkeley.edu).
+To upload:
+Plug the recorder into the USB port of your laptop. Double click on the device icon to see its contents.
+In the device window that appears on your laptop screen, find the folder that holds your recording. A new folder and file is created each time you record. These are numbered sequentially. If you’ve deleted previous recordings (see below), you should only see one recording folder. Ignore any folders that contain documentation and software. 
+Inside the recording folder, you will find a .MP3 file. This is your recording. Simply drag’n’drop the file to the Box window in your browser.
+Confirm that the file type, file size and recording length shown in Box are appropriate for the recording. 
+Add a filename (per the project’s naming convention) as a comment on Box: 
+Click the file name in the Box folder in your browser. A Comments field will appear at the right of the screen, next to the file preview.
+Enter the filename for the interview recording in the Comments field.
+DO NOT include the subject’s name in the filename.
+Preview the audio file on Box to check that the transfer was successful
+Listen to several sections to be sure the data have not become corrupted. 
+After upload, close your browser, disconnect from the VPN and power off your computer.
+Leave your computer turned off for one minute to ensure that the interview data is cleared from memory.
+
+AFTER QUALITY CONTROL, DELETE FROM RECORDING DEVICE
+When sure that the copy on Box is ok, DELETE the recording from the recording device. 
+Review each file on Box IMMEDIATELY after upload, or as soon as possible.
+At the very latest, the interview file must be deleted from the recorder within a week of its recording date.
