@@ -1,0 +1,27 @@
+UC Berkeley Research Data Management
+
+Protecting data in the cloud
+How to encrypt a file prior to sharing in Box
+
+Encryption keeps your files save by making them gibberish to anyone who doesn’t have the right key. Here’s how we recommend that you encrypt your files and keep your key safe.
+
+Want the long technical version of these instructions? Click here.
+
+*Your encryption is only as strong as your laptop security! 
+
+Set Up
+-Make sure you have a strong password
+-Print out your key and store it in a locked cabinet that only you or trusted colleagues have access to (don’t skip this step!)
+-Create a folder in box
+
+For Mac
+
+ Download the free program, Keka. 
+
+For PC
+
+Download the free program, 7Zip. 
+
+
+
+(Here I added some more text, to test the status view in GitHub Desktop)
